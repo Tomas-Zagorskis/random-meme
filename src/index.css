@@ -57,3 +57,11 @@ main {
 	border: none;
 	cursor: pointer;
 }
+
+.meme--image {
+	max-width: 100%;
+	position: relative;
+	left: 50%;
+	translate: -50%;
+	margin-top: 2rem;
+}
